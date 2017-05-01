@@ -9,37 +9,12 @@
 
 <head>
  <body>
-   <h1>わーい</h1>
+   <h1>文字を太く</h1>
+   <h2>背景色変更</h>
    
      <p>境界線</p>
+     <li>先頭文字を大きく</li>
  </body>
- </html>
-  
-  
-  @charset "UTF-8";
- 
-h1{
-    font-size: 1.75em;
-    color:#008080;
-    text-align:center;
-}
-
-h2{
-    font-size: 1.25em;
-    background-color:#ffffe0;
-    color:#ffffff;
-}
-
-p{
-    font-size: 0.8em;
-    color:#0080000;
-    line-height:2em;
-}
-
-li{
-    font-size: 0.8em;
-    color:#ffd700
-}
 
 
 

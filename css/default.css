@@ -17,6 +17,12 @@ p{
     
 }
 li{
+    font-weight:bold;
+    font-size:800%;
+    color:#ffd700;
+    line-height: 1;
+    padding: 4px;
+    margin-right: 4px;
     font-size: 0.8em;
-    color:#ffd700
+   
 }

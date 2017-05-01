@@ -3,11 +3,13 @@ h1{
     font-weight:700;
 }
 h2{
-   
     font-size: 1.25em;
-    background-color:#ffffe0;
-    color:#ffffff;
+   
 }
+h2 span{
+    font-size:2em;
+}
+
 p{background:#ffffff;
     padding:10px;
     width:300px;

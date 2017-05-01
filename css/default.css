@@ -6,12 +6,13 @@ h1{
     font-weight:
 }
 h2{
-    border: solid；
+   
     font-size: 1.25em;
     background-color:#ffffe0;
     color:#ffffff;
 }
-p{
+
+body{
     font-size: 0.8em;
     color:#008000;
     line-height:2em;

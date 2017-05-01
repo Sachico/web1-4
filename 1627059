@@ -3,19 +3,46 @@
 <head>
     <meta charset=“utf-8”>
    <title>さちこ</title>
+   <link rel=“stylesheet” href=“css/default.css” type=“text/css”>
+   
+  </head>
 
-   <style>
-   body{
-      background:
-      font-weigt:
-      </style>
-</head>
 <head>
  <body>
    <h1>わーい</h1>
-     <p>にゃー</p>
+   
+     <p>境界線</p>
  </body>
  </html>
+  
+  
+  @charset "UTF-8";
+ 
+h1{
+    font-size: 1.75em;
+    color:#008080;
+    text-align:center;
+}
+
+h2{
+    font-size: 1.25em;
+    background-color:#ffffe0;
+    color:#ffffff;
+}
+
+p{
+    font-size: 0.8em;
+    color:#0080000;
+    line-height:2em;
+}
+
+li{
+    font-size: 0.8em;
+    color:#ffd700
+}
+
+
+
 
 
 

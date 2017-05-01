@@ -8,16 +8,18 @@ h2{
     background-color:#ffffe0;
     color:#ffffff;
 }
-
+p{background:#ffffff;
+    padding:10px;
+    width:300px;
+    border:1px solid #cccccc;}
+    
 body{background-color:#ffffe0;
 background-image: url("2017-02-08-13-04-50.jpg")
     
-}
-li{
-   background:#ffffff;
-    padding:10px;
-    width:300px;
-    border:1px solid #cccccc;
+
+
+    li{
+  
     
    
 }

@@ -10,12 +10,16 @@ li span{
     font-size:2em;
 }
 
-p{background:#ffffff;
+p{
+    background:#ffffff;
     padding:10px;
     width:300px;
-    border:1px solid #cccccc;}
+    border:1px solid #cccccc;
+}
     
-body{background-color:#ffffe0;
-background-image: url("../2017-02-08-13-04-50.jpg")
+body{
+    background-color:#ffffe0;
+    background-image: url("../2017-02-08-13-04-50.jpg");
+}
     
 
